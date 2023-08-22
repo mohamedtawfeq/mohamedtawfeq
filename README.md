@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm mohamed tawfik ...<br><br>- 🔭 I’m work a Front-End Developer<br>- 📚 I am a Software Student at Mosul University<br>- ⚡ I love the Design</p>
+<p align="left">I'm mohamed tawfik ...<br><br>- 🔭 I’m work a Front-End Developer<br>- 📚 I am a Software Student at Mosul University<br>- 💖 I love the Design</p>
 
 ###
 
